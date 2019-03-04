@@ -471,7 +471,7 @@ namespace JogoVelha
                     MessageBox.Show("Player 2 Venceu!");
 
                 limparJogo();
-
+                 
             }
             else
             {
